@@ -113,7 +113,7 @@
             <div class="col-md-75 col-xl-6 col-xxl-5 text-md-start text-center py-6">
               <h1 class="fw-light font-base fs-6 fs-xxl-7">Casa de  <strong>Retiro </strong>para<br><strong>Adultos Mayores.</strong></h1>
               <p class="fs-1 mb-5">Somos una Institución especializada en el cuidado y atención, proporcionando amplia gama de servicios de salud para el bienestar  de las personas de la tercera edad.</p>
-              <p class="fs-1 mb-5"><b>Calle Doctor Gustavo Baz # 303 Plazas de San Buenaventura, Toluca, Estado de México. <br><br>Cel: 712 186 9515 <br>Correo: fortalezadelasabiduriae@gmail.com </b></p>
+              <!-- <p class="fs-1 mb-5"><b>Calle Doctor Gustavo Baz # 303 Plazas de San Buenaventura, Toluca, Estado de México. <br><br>Cel: 712 186 9515 <br>Correo: fortalezadelasabiduriae@gmail.com </b></p> -->
              
             </div>
           </div>
@@ -779,12 +779,12 @@
                 
               </div>
               <div class="col-12 col-sm-8 col-md-6">
-                <p class="fs--1 my-2 text-center text-md-end text-200">Calle Doctor Gustavo Baz # 303 Plazas de San Buenaventura, Toluca, Estado de México.
+                <!-- <p class="fs--1 my-2 text-center text-md-end text-200">Calle Doctor Gustavo Baz # 303 Plazas de San Buenaventura, Toluca, Estado de México.
                 </p>
                 <p class="fs--1 my-2 text-center text-md-end text-200">712 186 9515
                 </p>
                 <p class="fs--1 my-2 text-center text-md-end text-200">fortalezadelasabiduriae@gmail.com
-                </p>
+                </p> -->
               </div>
             </div>
           </div>
