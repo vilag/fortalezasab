@@ -46,10 +46,10 @@
 
   <body>
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <a  href="https://api.whatsapp.com/send?phone=+5217121869515&text=Hola,%20me%20gustaría%20conocer%20mas%20sobre%20la%20casa%20de%20retiro." class="float" target="_blank">
       <img src="images/iconos/whatsapp.png" style="width: 100%;">
-    </a>
+    </a> -->
 
     <!-- Messenger Plugin de chat Code -->
     <div id="fb-root"></div>
